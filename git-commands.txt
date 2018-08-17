@@ -1,4 +1,6 @@
 Git commannds
+
+
 1) git config --global user.name "Nitish"
 function
 it configures the author name to be used with your commits.
